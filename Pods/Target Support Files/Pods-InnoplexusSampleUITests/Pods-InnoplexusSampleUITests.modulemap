@@ -1,6 +1,0 @@
-framework module Pods_InnoplexusSampleUITests {
-  umbrella header "Pods-InnoplexusSampleUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
